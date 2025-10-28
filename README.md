@@ -1,9 +1,5 @@
 # c-mcl27.github.io
-<! DOCTYPE html>
-<html>
-  <head>
-    <title>All About Charlotte</title>
-  </head>
+# <! DOCTYPE html>
 
 <body>
   <h1>Charlotte's Life</h1>
