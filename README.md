@@ -1,5 +1,5 @@
 # c-mcl27.github.io
-# <! DOCTYPE html>
+<!-- DOCTYPE html-->
 
 <body>
   <h1>Charlotte's Life</h1>
