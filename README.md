@@ -1,6 +1,11 @@
 # c-mcl27.github.io
-<!-- DOCTYPE html-->
-<link rel="stylesheet" href="Style_sheet.css">
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>My Hobby Page</title>
+  <link rel="stylesheet" href="Style_sheet.css">
+</head>
 
 <body>
   <h1>Charlotte's Life</h1>
