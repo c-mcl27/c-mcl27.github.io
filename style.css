@@ -18,6 +18,20 @@ h1 {
     margin-right: auto;
 }
 
+.para_2 {
+    background-color: rgb(173 216 230 / 50%);
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para_3 {
+    background-color: rgb(168 101 201 / 50%);
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 table {
   border-collapse: separate;
   border-spacing: 15px;
