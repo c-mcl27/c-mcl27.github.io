@@ -1,5 +1,6 @@
 # c-mcl27.github.io
 <!-- DOCTYPE html-->
+<link rel="stylesheet" href="Style_sheet.css">
 
 <body>
   <h1>Charlotte's Life</h1>
