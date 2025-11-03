@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>My Hobby Page</title>
   <link rel="stylesheet" href="Style_sheet.css">
 </head>
 
