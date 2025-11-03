@@ -18,7 +18,11 @@ h1 {
     margin-right: auto;
 }
 
+table {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
 
 table, th, td {
-    border:2px grey;
+    border:2px solid grey; 
 }
